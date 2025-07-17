@@ -10,6 +10,7 @@ observable Go services at enterprise scale. Violations require explicit exceptio
 (Full content abridged in ADR view; expand in project-specific copies as needed.)
 
 ## Quick Reference
+
 ✅ Instrument before you ship.  
 ❌ Never log raw PII in production.  
 ✅ Enrich request logger once.  
